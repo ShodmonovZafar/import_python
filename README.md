@@ -85,6 +85,32 @@ Siz `dir()` yordamida nomlar maydoni tarkibini ro'yxatga olishingiz mumkin:
 
 `dir()` dan hech qanday argumentsiz foydalanish global nommaydonida nima borligini ko'rsatadi. `math` nommaydonining mazmunini ko'rish uchun siz `dir(math)` dan foydalanasiz.
 
+`import`-ning eng oddiy qo'llanilishini allaqachon ko'rgansiz. Biroq, modulning muayyan qismlarini import qilish va uni import qilayotganda modul nomini o'zgartirish imkonini beruvchi undan foydalanishning boshqa usullari mavjud.
+
+Quyidagi kod `math` moduldan faqat `pi` o'zgaruvchisini import qiladi:
+```
+>>> from math import pi
+>>> pi
+3.141592653589793
+
+>>> math.pi
+NameError: name 'math' is not defined
+```
+
+Shuni esda tutingki, bu `pi`-ni matematik nom maydoni ichida emas, balki global nomlar maydonida joylashtiradi.
+
+Import qilingan modul va atributlarni ham qayta nomlashingiz mumkin:
+```
+>>> import math as m
+>>> m.pi
+3.141592653589793
+
+>>> from math import pi as PI
+>>> PI
+3.141592653589793
+```
+
+Modullarni import qilish sintaksisi haqida ko'proq ma'lumot olish uchun [Python modullari va paketlar - kirish](https://realpython.com/python-modules-packages/#the-import-statement)ni tekshiring.
 
 ## Resurs Importi
 ## Dinamik Import
