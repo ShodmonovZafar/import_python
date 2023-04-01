@@ -56,6 +56,7 @@ Keyinchalik qo'llanmada siz Python import tizimining ba'zi ilg'or va kam ma'lum 
 
 ### Modullar
 
+[Python.org glossary](https://docs.python.org/glossary.html) **modul**ni quyidagicha belgilaydi(ta'riflaydi):
 ## Resurs Importi
 ## Dinamik Import
 ## Python Import Tizimi
