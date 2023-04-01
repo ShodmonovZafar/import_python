@@ -2,7 +2,7 @@
 # Python import: ilg'or texnikalar va maslahatlar
 ## Mundarija jadvali
 * [Asosiy Python import](https://github.com/ShodmonovZafar/import_python#asosiy-python-import)
-    + Modullar
+    + Modullar[^1]
     + Paketlar
     + Mutloq va Nisbiy Import
     + Python Import Yo'li
@@ -36,6 +36,7 @@
 * [Xulosa](https://github.com/ShodmonovZafar/import_python#xulosa)
 
 ## Asosiy Python import
+[^1]:
 ## Resurs Importi
 ## Dinamik Import
 ## Python Import Tizimi
