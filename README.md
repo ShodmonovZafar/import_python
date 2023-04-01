@@ -2,7 +2,7 @@
 # Python import: Ilg'or Texnikalar va Maslahatlar
 ## Mundarija jadvali
 * [Asosiy Python import](https://github.com/ShodmonovZafar/import_python#asosiy-python-import)
-    + Modullar
+    + [Modullar]()
     + Paketlar
     + Mutloq va Nisbiy Import
     + Python Import Yo'li
@@ -51,6 +51,11 @@ O'quv qo'llanmasida siz Python import uskunalari bilan samarali ishlash uchun qa
 
 ## Asosiy Python import
 Python kodi [ham modullarga, ham paketlar](https://github.com/ShodmonovZafar/modules_and_packages#modules_and_packages)ga ajratilgan. Ushbu bo'limda ular qanday farq qilishlari va ular bilan qanday ishlashingiz mumkinligi tushuntiriladi.
+
+Keyinchalik qo'llanmada siz Python import tizimining ba'zi ilg'or va kam ma'lum bo'lgan foydalanishlarini ko'rasiz. Biroq, keling, asosiy narsalardan boshlaylik: modullar va paketlarni import qilish.
+
+### Modullar
+
 ## Resurs Importi
 ## Dinamik Import
 ## Python Import Tizimi
