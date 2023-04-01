@@ -34,7 +34,7 @@
     + 6
     + 7
 * [Xulosa](https://github.com/ShodmonovZafar/import_python#xulosa)
-
+Pythonda siz bir moduldagi kodni boshqa modulda mavjud qilish uchun `import` kalit so'zidan foydalanasiz. Python-da import qilish kodingizni samarali tarzda tuzish uchun muhimdir. Importdan to'g'ri foydalanish sizni yanada samaraliroq qiladi, bu sizning loyihalaringizni saqlab turishda kodni qayta ishlatishga imkon beradi.
 ## Asosiy Python import
 ## Resurs Importi
 ## Dinamik Import
