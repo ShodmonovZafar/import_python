@@ -37,6 +37,8 @@
 
 Pythonda siz bir **modul**dagi kodni boshqa modulda mavjud qilish uchun `import` kalit so'zidan foydalanasiz. Pythonda import qilish **kodingizni samarali tarzda tuzish** uchun muhimdir. Importdan to'g'ri foydalanish sizni yanada samaraliroq qiladi, bu sizning loyihalaringizni saqlab turishda kodni qayta ishlatishga imkon beradi.
 
+Ushbu qo'llanma Pythonning `import` bayonoti va uning qanday ishlashi haqida to'liq ma'lumot beradi. Import tizimi kuchli va siz bu quvvatdan qanday foydalanishni o'rganasiz. Pythonning import tizimi ortidagi ko'plab tushunchalarni qamrab olgan bo'lsangiz-da, ushbu qo'llanma asosan misol uchun asoslangan. Siz bir nechta kod misollaridan o'rganasiz.
+
 ## Asosiy Python import
 ## Resurs Importi
 ## Dinamik Import
