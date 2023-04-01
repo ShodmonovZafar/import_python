@@ -69,7 +69,19 @@ Modullarning haqiqiy kuchi shundaki, ularni import qilish va boshqa kodlarda qay
 ```
 Birinchi qatorda `import math` qiling, siz [**math**](https://realpython.com/python-math-module/) moduldagi kodni **import** qilasiz va undan foydalanishga ruxsat berasiz. Ikkinchi qatorda siz `math` moduldagi `pi` [o'zgaruvchi](https://realpython.com/python-variables/)siga kirasiz. `math` **Python standart kutubxona**sining bir qismidir, ya'ni Python bilan ishlayotganingizda uni import qilish har doim mavjud.
 
-E'tibor bering, siz shunchaki `pi` emas, balki `math.pi` yozasiz. Modul bo'lishdan tashqari, `math` modulning barcha atributlarini birga saqlaydigan **nommaydoni** vazifasini bajaradi. **Nommaydoni** kodingizni o'qilishi va tartibli saqlash uchun foydalidir. Tim Peters so'zlari bilan aytganda:
+E'tibor bering, siz shunchaki `pi` emas, balki `math.pi` yozasiz. `math` modul bo'lishdan tashqari, `math` modulning barcha atributlarini birga saqlaydigan **nommaydoni** vazifasini bajaradi. **Nommaydoni** kodingizni o'qilishi va tartibli saqlash uchun foydalidir. Tim Peters so'zlari bilan aytganda:
+
+> Nommaydonlari - bu ajoyib g'oya - keling, ulardan ko'proq narsani qilaylik! ([Manba](https://www.python.org/dev/peps/pep-0020/))
+
+Siz `dir()` yordamida nomlar maydoni tarkibini ro'yxatga olishingiz mumkin:
+```
+>>> import math
+>>> dir()
+['__annotations__', '__builtins__', ..., 'math']
+
+>>> dir(math)
+['__doc__', ..., 'nan', 'pi', 'pow', ...]
+```
 
 
 ## Resurs Importi
