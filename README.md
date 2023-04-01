@@ -58,6 +58,15 @@ Keyinchalik qo'llanmada siz Python import tizimining ba'zi ilg'or va kam ma'lum 
 
 [Python.org glossary](https://docs.python.org/glossary.html) **modul**ni quyidagicha belgilaydi(ta'riflaydi):
 > Python kodining tashkiliy birligi bo'lib xizmat qiladigan ob'ekt. Modullar ixtiyoriy Python obyektlarini o'z ichiga olgan nom maydoniga ega. Modullar Python-ga import qilish orqali yuklanadi. ([Manba](https://docs.python.org/glossary.html#term-module))
+
+Amalda, modul odatda Python kodini o'z ichiga olgan bitta `.py` fayliga mos keladi.
+
+Modullarning haqiqiy kuchi shundaki, ularni import qilish va boshqa kodlarda qayta ishlatish mumkin. Quyidagi misolni ko'rib chiqing:
+```
+>>> import math
+>>> math.pi
+3.141592653589793
+```
 ## Resurs Importi
 ## Dinamik Import
 ## Python Import Tizimi
