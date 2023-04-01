@@ -2,35 +2,38 @@
 # Python import: ilg'or texnikalar va maslahatlar
 ## Mundarija jadvali
 * [Asosiy Python import](https://github.com/ShodmonovZafar/import_python#asosiy-python-import)
-    + First nested list item
-        - Second nested list item
-* Resurs Importi
-* Dinamik Import
-* Python Import Tizimi
-* Import bo'yicha Maslahatlar va Fokuslar
-* Xulosa
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    + Modullar
+    + Paketlar
+    + Mutloq va Nisbiy Import
+    + Python Import Yo'li
+    + 5
+    + 6
+    + 7
+    + 8
+* [Resurs Importi](https://github.com/ShodmonovZafar/import_python#resurs-importi)
+    + 1
+    + 2
+    + 3
+* [Dinamik Import](https://github.com/ShodmonovZafar/import_python#dinamik-import)
+    + 1
+    + 2
+    + 3
+* [Python Import Tizimi](https://github.com/ShodmonovZafar/import_python#python-import-tizimi)
+    + 1
+    + 2
+    + 3
+    + 4
+    + 5
+    + 6
+* [Import bo'yicha Maslahatlar va Fokuslar](https://github.com/ShodmonovZafar/import_python#import-boyicha-maslahatlar-va-fokuslar)
+    + 1
+    + 2
+    + 3
+    + 4
+    + 5
+    + 6
+    + 7
+* [Xulosa](https://github.com/ShodmonovZafar/import_python#xulosa)
 
 ## Asosiy Python import
 ## Resurs Importi
