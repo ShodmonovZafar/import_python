@@ -2,7 +2,7 @@
 # Python import: Ilg'or Texnikalar va Maslahatlar
 ## Mundarija jadvali
 * [Asosiy Python import](https://github.com/ShodmonovZafar/import_python#asosiy-python-import)
-    + [Modullar]()
+    + [Modullar](https://github.com/ShodmonovZafar/import_python#modullar)
     + Paketlar
     + Mutloq va Nisbiy Import
     + Python Import Yo'li
