@@ -9,3 +9,9 @@
 * Python Import Tizimi
 * Import bo'yicha Maslahatlar va Fokuslar
 * Xulosa
+## Asosiy Python import
+## Resurs Importi
+## Dinamik Import
+## Python Import Tizimi
+## Import bo'yicha Maslahatlar va Fokuslar
+## Xulosa
