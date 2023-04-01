@@ -40,10 +40,10 @@ Pythonda siz bir **modul**dagi kodni boshqa modulda mavjud qilish uchun `import`
 Ushbu qo'llanma Pythonning `import` bayonoti va uning qanday ishlashi haqida to'liq ma'lumot beradi. Import tizimi kuchli va siz bu quvvatdan qanday foydalanishni o'rganasiz. Pythonning import tizimi ortidagi ko'plab tushunchalarni qamrab olgan bo'lsangizda, ushbu qo'llanma asosan misol uchun asoslangan. Siz bir nechta kod misollaridan o'rganasiz.
 
 **Ushbu qo'llanmada siz qanday qilishni o'rganasiz:**
-    * **Modullar**, **paketlar** va **nomlar maydoni paketlar**idan foydalaning
-    * Paketlaringiz ichidagi **resurslar** va **ma'lumotlar fayllar**ini ishlating
-    *
-    *
+* **Modullar**, **paketlar** va **nomlar maydoni paketlar**idan foydalaning
+* Paketlaringiz ichidagi **resurslar** va **ma'lumotlar fayllar**ini ishlating
+*
+*
 
 ## Asosiy Python import
 ## Resurs Importi
