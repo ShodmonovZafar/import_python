@@ -68,6 +68,10 @@ Modullarning haqiqiy kuchi shundaki, ularni import qilish va boshqa kodlarda qay
 3.141592653589793
 ```
 Birinchi qatorda `import math` qiling, siz [**math**](https://realpython.com/python-math-module/) moduldagi kodni **import** qilasiz va undan foydalanishga ruxsat berasiz. Ikkinchi qatorda siz `math` moduldagi `pi` [o'zgaruvchi](https://realpython.com/python-variables/)siga kirasiz. `math` **Python standart kutubxona**sining bir qismidir, ya'ni Python bilan ishlayotganingizda uni import qilish har doim mavjud.
+
+E'tibor bering, siz shunchaki `pi` emas, balki `math.pi` yozasiz. Modul bo'lishdan tashqari, `math` modulning barcha atributlarini birga saqlaydigan **nommaydoni** vazifasini bajaradi. **Nommaydoni** kodingizni o'qilishi va tartibli saqlash uchun foydalidir. Tim Peters so'zlari bilan aytganda:
+
+
 ## Resurs Importi
 ## Dinamik Import
 ## Python Import Tizimi
