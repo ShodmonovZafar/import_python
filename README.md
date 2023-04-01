@@ -83,6 +83,8 @@ Siz `dir()` yordamida nomlar maydoni tarkibini ro'yxatga olishingiz mumkin:
 ['__doc__', ..., 'nan', 'pi', 'pow', ...]
 ```
 
+`dir()` dan hech qanday argumentsiz foydalanish global nommaydonida nima borligini ko'rsatadi. `math` nommaydonining mazmunini ko'rish uchun siz `dir(math)` dan foydalanasiz.
+
 
 ## Resurs Importi
 ## Dinamik Import
