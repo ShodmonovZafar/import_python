@@ -1,1 +1,1 @@
-# import_python
+# Python import: ilg'or texnikalar va maslahatlar
