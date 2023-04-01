@@ -46,10 +46,11 @@ Ushbu qo'llanma Pythonning `import` bayonoti va uning qanday ishlashi haqida to'
 * Python import tizimini **moslashtiring**
 
 <!-- https://realpython.com/bonus/python-import/ -->
-O'quv qo'llanmasida siz Python import uskunalari bilan samarali ishlash uchun qanday o'ynash haqida misollarni ko'rasiz. Barcha kodlar o'quv qo'llanmasida ko'rsatilgan bo'lsa-da, siz uni quyidagi katakchani bosish orqali ham yuklab olishingiz mumkin:
+O'quv qo'llanmasida siz Python import uskunalari bilan samarali ishlash uchun qanday o'ynash haqida misollarni ko'rasiz. Barcha kodlar o'quv qo'llanmasida ko'rsatilgan bo'lsada, siz uni quyidagi katakchani bosish orqali ham yuklab olishingiz mumkin:
 > Manba kodini oling: Ushbu qo'llanmada Python import tizimi haqida ma'lumot olish uchun foydalanadigan manba kodini olish uchun [shu yerni bosing](https://realpython.com/bonus/python-import/).
 
 ## Asosiy Python import
+Python kodi ham modullarga, ham paketlarga ajratilgan. Ushbu bo'limda ular qanday farq qilishlari va ular bilan qanday ishlashingiz mumkinligi tushuntiriladi.
 ## Resurs Importi
 ## Dinamik Import
 ## Python Import Tizimi
