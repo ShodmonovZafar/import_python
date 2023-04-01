@@ -50,7 +50,7 @@ O'quv qo'llanmasida siz Python import uskunalari bilan samarali ishlash uchun qa
 > Manba kodini oling: Ushbu qo'llanmada Python import tizimi haqida ma'lumot olish uchun foydalanadigan manba kodini olish uchun [shu yerni bosing](https://realpython.com/bonus/python-import/).
 
 ## Asosiy Python import
-Python kodi ham modullarga, ham paketlarga ajratilgan. Ushbu bo'limda ular qanday farq qilishlari va ular bilan qanday ishlashingiz mumkinligi tushuntiriladi.
+Python kodi [ham modullarga, ham paketlar](https://github.com/ShodmonovZafar/modules_and_packages#modules_and_packages)ga ajratilgan. Ushbu bo'limda ular qanday farq qilishlari va ular bilan qanday ishlashingiz mumkinligi tushuntiriladi.
 ## Resurs Importi
 ## Dinamik Import
 ## Python Import Tizimi
